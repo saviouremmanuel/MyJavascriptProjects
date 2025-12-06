@@ -1,4 +1,4 @@
-// de
+// Intro JavaScript Assignment
 const name = "Saviour Emmanuel";
 const age = 25;                   
 const favoriteLanguage = "Python"; 
