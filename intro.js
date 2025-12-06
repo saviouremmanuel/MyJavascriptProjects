@@ -1,4 +1,4 @@
-// Intro JavaScript Assignment
+// quick  Introduction using JavaScript__Assignment
 const name = "Saviour Emmanuel";
 const age = 25;                   
 const favoriteLanguage = "Python"; 
